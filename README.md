@@ -27,5 +27,6 @@
   <a href="https://www.linkedin.com/in/mois%C3%A9s-fraga-7486b2249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/St4rkes/St4rkes/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
