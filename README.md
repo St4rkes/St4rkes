@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=239B56&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Moisés+Fraga;I'm+34+years+old;I'm+from+Brazil;I+Graduating+systems+Development;Welcome!+:%29)](https://git.io/typing-svg)
 
-Olá, Eu sou Moisés Fraga 👊!
+Olá, eu sou Moisés Fraga 👊!
 
 👨‍💻 Estudando programação JAVA | PHP | JS | HTML | CSS.
 
