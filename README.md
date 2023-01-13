@@ -1,11 +1,20 @@
-# Olá, Eu sou Moisés Fraga 👊!a
-👷‍♂️ Experiência na área de redes e telefonia.
-👨‍💻 Estudando programação JAVA | PHP | HTML | CSS.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F8C22&height=120&section=header"/>
 
-<img width-100% scr="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=239B56&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Moisés+Fraga;I'm+34+years+old;I'm+from+Brazil;I+Graduating+systems+Development;Welcome!+:%29)](https://git.io/typing-svg)
+
+Olá, Eu sou Moisés Fraga 👊!
+
+👨‍💻 Estudando programação JAVA | PHP | JS | HTML | CSS.
+
+
 
 <div>
   <a href="https://github.com/St4rkes">
+    
+    <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=St4rkes101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Moisés Fraga github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4rkes101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
     
     
     
