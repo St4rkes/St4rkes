@@ -4,9 +4,8 @@
 
 <div>
   <a href="https://github.com/St4rkes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=St4rkes&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
     
-    
+    https://github-readme-stats.vercel.app/api?username=St4rkes&show_icons=true&theme=radical
     
 </div>
       
