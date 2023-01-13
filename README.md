@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/St4rkes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=St4rkes&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4rkes&layout=compact&langs_count-16&theme=dark"/>
+    
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=St4rkes&show_icons=true&theme=radical)
 </div>
       
       
