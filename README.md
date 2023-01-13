@@ -1,6 +1,8 @@
-# Olá, Eu sou Moisés Fraga 👊!
+# Olá, Eu sou Moisés Fraga 👊!a
 👷‍♂️ Experiência na área de redes e telefonia.
 👨‍💻 Estudando programação JAVA | PHP | HTML | CSS.
+
+<img width-100% scr="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 <div>
   <a href="https://github.com/St4rkes">
