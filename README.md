@@ -4,7 +4,7 @@
 
 Olá, eu sou Moisés Fraga 👊!
 
-👨‍💻 Graduando Analise e Desenvolvimento Sistemas - JAVA | PHP | JS | HTML | CSS.
+👨‍💻 Estudante Analise e Desenvolvimento Sistemas - JAVA | PHP | JS | HTML | CSS.
 
 
 
